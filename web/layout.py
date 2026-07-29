@@ -139,7 +139,8 @@ a{color:var(--accent);text-decoration:none;} a:hover{text-decoration:underline;}
 """
 
 NAV = [("docs", "All documents", "📄", "/"), ("templates", "Templates", "🧩", "/templates"),
-       ("ai", "AI Assistant", "🤖", "/ai"), ("guide", "User Guide", "📖", "/guide")]
+       ("ai", "AI Assistant", "🤖", "/ai"), ("guide", "User Guide", "📖", "/guide"),
+       ("developers", "Developers", "⌘", "/developers")]
 SAMPLE_QUESTIONS = ["How many documents do I have?", "Draft an intro about onboarding", "Summarise the Q3 Product Plan"]
 
 
