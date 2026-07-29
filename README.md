@@ -1,5 +1,7 @@
 # FastDocs
 
+![FastDocs product tour](docs/demo/fastdocs-walkthrough.gif)
+
 A server-rendered, **HTMX-driven document editor** built with
 [FastHTML](https://fastht.ml) — a compact port of the core of
 [Frappe Writer](https://github.com/frappe/writer) (Vue 3 + TipTap upstream →
